@@ -1,0 +1,7 @@
+{
+  "wangbs": {
+    "MachineId": "这里填你程序第一次跑出来的机器码",
+    "Expire": "2026-12-31",
+    "Kill": false
+  }
+}
