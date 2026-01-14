@@ -13,12 +13,6 @@
       "machine": "7dGxf3i0nynYEZXqNNHBKVGoHMEQTaAaxtm2HlYuTQ0=",
       "expire": "2025-01-13",
       "disabled": false
-    },
-    {
-      "user": "test2",
-      "machine": "7dGxf3i0nynYEZXqNNHBKVGoHMEQTaAaxtm2HlYuTQ0=",
-      "expire": "2025-02-13",
-      "disabled": true
     }
   ]
   
