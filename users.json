@@ -4,19 +4,19 @@
   "USERS": [
     {
       "user": "wangbs",
-      "machine": "7dGxf3i0nynYEZXqNNHBKVGoHMEQTaAaxtm2HlYuTQ0=",
+      "machine": "8695607D7310D2F9C2956EF1E86C6C8AA0448D6166BEF182C85E21E4E790A1C6",
       "expire": "2026-12-31",
       "disabled": false
     },
     {
       "user": "test",
-      "machine": "7dGxf3i0nynYEZXqNNHBKVGoHMEQTaAaxtm2HlYuTQ0=",
+      "machine": "8695607D7310D2F9C2956EF1E86C6C8AA0448D6166BEF182C85E21E4E790A1C6",
       "expire": "2025-01-13",
       "disabled": false
     },
     {
       "user": "test2",
-      "machine": "7dGxf3i0nynYEZXqNNHBKVGoHMEQTaAaxtm2HlYuTQ0=",
+      "machine": "8695607D7310D2F9C2956EF1E86C6C8AA0448D6166BEF182C85E21E4E790A1C6",
       "expire": "2025-02-13",
       "disabled": true
     }
