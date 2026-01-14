@@ -1,12 +1,19 @@
 {
-  "wangbs": {
-    "MachineId": "C632C797927A04F0EB1239840FC776932F1B7602F725CA473490F0C28D56B090",
-    "Expire": "2026-1-13",
-    "Kill": false
-  }
-    "wangjq": {
-    "MachineId": "C632C797927A04F0EB1239840FC776932F1B7602F725CA473490F0C28D56B090",
-    "Expire": "2026-12-31",
-    "Kill": false
-  }
+  "KILL": false,
+  "UPDATE": "2026-01-01",
+  "USERS": [
+    {
+      "user": "wangbs",
+      "machine": "BASE64_MACHINE_CODE",
+      "expire": "2026-12-31",
+      "disabled": false
+    },
+    {
+      "user": "test",
+      "machine": "XXXX",
+      "expire": "2025-06-30",
+      "disabled": true
+    }
+  ]
+  
 }
