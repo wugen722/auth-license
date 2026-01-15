@@ -32,6 +32,12 @@
       "machine": "B922432D1802B7C833B85CB3A91375663C9514ED1FB6C5C9376A3502CB7564F4",
       "expire": "2026-12-31",
       "disabled": false
+    },
+    {
+      "user": "zhangzf",
+      "machine": "0C202C174FC60EBED11DC825FB7F50844909505D047598149756913DD764320D",
+      "expire": "2026-12-31",
+      "disabled": false
     }
   ]
   
