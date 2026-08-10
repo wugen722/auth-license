@@ -1,1 +1,13 @@
+{
+  "KILL": false,
+  "UPDATE": "2026-02-01",
+  "USERS": [
+    {
+      "user": "zhangzf",
+      "machine": "0C202C174FC60EBED11DC825FB7F50844909505D047598149756913DD764320D",
+      "expire": "2026-12-31",
+      "disabled": false
+    }
+  ]
+}
 
